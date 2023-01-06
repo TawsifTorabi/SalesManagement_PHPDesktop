@@ -1,10 +1,11 @@
-Before Starting to use pdf.php - Unzip the dompdf folder in this directory with pdf.php </br>
+Before Starting to use pdf.php - Unzip **api.zip** in this directory with pdf.php </br>
 This folder should look alike, </br>
 
 	/Vendor
 	/composer.json
 	/composer.lock
 	/pdf.php
+	/readme.md
   
 </br>
 I used mPDF previously to get support to print Bangla and Unicode Fonts.</br>
