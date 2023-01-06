@@ -1,0 +1,102 @@
+@import url(fa/css/font-awesome.min.css);
+
+.alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    opacity: 1;
+    transition: opacity 0.6s;
+    margin-bottom: 15px;
+}
+
+.alert.success {background-color: #4CAF50;}
+.alert.info {background-color: #2196F3;}
+.alert.warning {background-color: #ff9800;}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+
+span > i {
+    color: white;
+}
+span > input {
+    background: none;
+    color: white;
+    padding: 0;
+    border: 0;
+}
+
+
+input[type="text"], [type="password"] {
+    background: linear-gradient(to right, white 75%, skyblue 149%);
+    border-radius: 9px;
+    padding: 6px 11px;
+    border: 1px solid white;
+    border-bottom: 1px solid skyblue;
+    width: 300px;
+    font-weight: bold;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.29);
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.21);
+    margin-bottom: 11px;
+	font-family: Trebuchet MS;
+}
+input[type="submit"]{
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+	font-family: Trebuchet MS;
+    padding: 5px 26px;
+    background: linear-gradient(#e2f7ff, #5cb8ff);
+	box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.21);
+}
+
+button[type="submit"]{
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+	font-family: Trebuchet MS;
+    padding: 5px 26px;
+    background: linear-gradient(#e2f7ff, #5cb8ff);
+	box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.21);
+}
+
+button[type="button"]{
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+	font-family: Trebuchet MS;
+    padding: 5px 26px;
+    background: linear-gradient(#e2f7ff, #5cb8ff);
+	box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.21);
+}
+html{
+    background: linear-gradient(to right, white, #c0e4ff);
+	font-family: Trebuchet MS;
+}
+.credit{
+    color: #a2a2a2;
+    font-family: Trebuchet MS;
+    background: white;
+    padding: 5px 8px;
+    border-radius: 9px;
+    box-shadow: 1px 2px 7px rgba(0, 0, 0, 0.3);
+}
+.logo {
+    border-radius: 50%;
+    background: white;
+    border: 8px solid #0090ff;
+    box-shadow: 1px 1px 12px black;
+}
