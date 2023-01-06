@@ -15,6 +15,10 @@ Language: English in this version
 7. Statistics at Homepage
 8. SQLite Standalone
 
+</br>
+### Default Login Credentials:
+**Username:** user
+**Password:** pass
 
 </br>
 </br>
