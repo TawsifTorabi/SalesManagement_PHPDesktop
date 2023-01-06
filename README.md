@@ -15,13 +15,10 @@ Language: English in this version
 7. Statistics at Homepage
 8. SQLite Standalone
 
-</br>
-### Default Login Credentials:
-**Username:** user
-**Password:** pass
 
-</br>
-</br>
+### Default Login Credentials:
+**Username:** user </br>
+**Password:** pass
 
 ## Important Note: 
 Before Starting to use api/pdf.php - Unzip **api.zip** in this directory with pdf.php </br>
