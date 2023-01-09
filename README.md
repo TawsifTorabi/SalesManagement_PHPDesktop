@@ -5,6 +5,19 @@ This web application works in the principle of selling copies of magazine. It do
 It only tracks the sells and records the payments and dues from selling agents.</br>
 Language: English in this version
 
+### Installation:
+#### 💻 PHP Desktop:
+This web application directly runs on [phpdesktop ]([url](https://github.com/cztomczak/phpdesktop)) </br>
+You need to add all the contents from the src folder to the www folder of the phpdesktop application. </br>
+And you can customize the phpdesktop by modifying or replacing the settings.json at the root folder of phpdesktop.
+#### 🌍 Xampp or Apache Server:
+You just copy this web application src folder to the xampp's htdocs folder.</br>
+Then enable sqlite from php.ini </br>
+To activate SQLite3 in Xampp (v3.2.2).</br> 
+- Open xampp/php/php.ini 
+- un-comment the line ;extension=sqlite3 (just remove the ; from the line)
+- save the php.ini and restart your Xampp server.
+
 ## Features
 1. Adding Agents
 2. Recording Weekly Consumption
