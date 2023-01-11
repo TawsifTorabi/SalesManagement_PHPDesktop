@@ -35,6 +35,7 @@ To activate SQLite3 in Xampp (v3.2.2).</br>
 
 ## Important Note: 
 Before Starting to use api/pdf.php - Unzip **api.zip** in this directory with pdf.php </br>
+Youtube Tutorial Video will be available soon. </br>
 This folder should look alike, </br>
 
 	/Vendor
