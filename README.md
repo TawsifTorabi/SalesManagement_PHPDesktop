@@ -1,4 +1,4 @@
-# WeeklySalesRegister_SQLite
+# WeeklySalesRegister_SQLite_v2.0
 ### Optimized for both PHP_Desktop and Xampp
 Sales Management System in PHP and SQLite set to Run in phpdesktop</br>
 This is a simple sales management application.</br>
